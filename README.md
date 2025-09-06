@@ -8,7 +8,7 @@ I am an aspiring cybersecurity analyst and developer. I'm currently studying cyb
 - Linux & Windows Administration
 - Packet Analysis (Wireshark, netstat)
 
-## Current Goals
+## 🎯Current Goals
 - Improve network security knowledge and practical skills
 - Develop secure applications and platforms
 - Contribute to open-source projects
