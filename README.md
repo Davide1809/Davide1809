@@ -13,7 +13,7 @@ I am an aspiring cybersecurity analyst and developer. I'm currently studying cyb
 - Develop secure applications and platforms
 - Contribute to open-source projects
 
-## Projects
+## 🚀Projects
 - **College Network Analysis:** Packet capture and vulnerability assessment project
 
 ## Contact
