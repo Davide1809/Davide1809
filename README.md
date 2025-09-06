@@ -22,3 +22,4 @@ I am an aspiring cybersecurity analyst and developer. I'm currently studying cyb
 ## 😎Fun Facts
 - Passionate about cybersecurity, coding, and solving challenging problems.
 - Enjoys building small projects, experimenting with new technologies, and learning continuously.
+- I play soccer with my university team.
