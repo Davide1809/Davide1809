@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Davide Silverii
 I am an aspiring cybersecurity analyst and developer. I'm currently studying cybersecurity at the University of Rio Grande and passionate about online security, coding, and technology.
 
-## Technical skills
+## 💻 Technical skills
 - Python
 - Networking & Cybersecurity
 - Git & GitHub
