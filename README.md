@@ -16,9 +16,9 @@ I am an aspiring cybersecurity analyst and developer. I'm currently studying cyb
 ## 🚀Projects
 - **College Network Analysis:** Packet capture and vulnerability assessment project
 
-## Contact
+## 📬Contact
 - Email: dsilverii01@rio.edu
 
-## Fun Facts
+## 😎Fun Facts
 - Passionate about cybersecurity, coding, and solving challenging problems.
 - Enjoys building small projects, experimenting with new technologies, and learning continuously.
